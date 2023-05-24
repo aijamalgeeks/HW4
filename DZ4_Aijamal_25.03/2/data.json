@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Apple",
+    "model": "13",
+    "year": "2021"
+  },
+  {
+    "name": "samsung",
+    "model": "Galaxy Z",
+    "year": "2019"
+  },
+  {
+    "name": "",
+    "model": "",
+    "year": ""
+  }
+]
